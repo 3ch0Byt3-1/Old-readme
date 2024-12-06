@@ -1,7 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
- 
-  
    ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=H3110;I+Am+Tarun;+You+Know+A+Who+I+Am+??;It's+EchoByte;Thank+You+Everyone+😉;Stay+Safe+Stay+Happy;)
   
   </p>
